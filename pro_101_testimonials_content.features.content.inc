@@ -113,7 +113,7 @@ function pro_101_testimonials_content_content_defaults() {
         ),
       ),
     ),
-    'field_title' => array(
+    'field_city_state' => array(
       'und' => array(
         0 => array(
           'value' => 'Jersey City, NJ',
