@@ -69,21 +69,21 @@ function pro_101_testimonials_content_content_defaults() {
         ),
       ),
     ),
-    'field_title' => array(
-      'und' => array(
-        0 => array(
-          'value' => 'Attorney at Law at Jane & Asscoiates',
-          'format' => NULL,
-          'safe_value' => 'Attorney at Law at Jane &amp; Asscoiates',
-        ),
-      ),
-    ),
     'field_city_state' => array(
       'und' => array(
         0 => array(
           'value' => 'New York, NY',
           'format' => NULL,
           'safe_value' => 'New York, NY',
+        ),
+      ),
+    ),
+    'field_title' => array(
+      'und' => array(
+        0 => array(
+          'value' => 'Attorney at Law at Jane & Asscoiates',
+          'format' => NULL,
+          'safe_value' => 'Attorney at Law at Jane &amp; Asscoiates',
         ),
       ),
     ),
