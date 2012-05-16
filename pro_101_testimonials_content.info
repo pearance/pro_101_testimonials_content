@@ -2,6 +2,7 @@ name = Pro 101 Testimonials Content
 description = Default content for the Pro 101 Testimonials feature.
 core = 7.x
 package = Pro 101 Defaults (L)
+php = 5.2.4
 version = 7.x-1.0
 project = pro_101_testimonials_content
 features[content][] = testimonial1
