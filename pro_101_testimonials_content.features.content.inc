@@ -28,6 +28,9 @@ function pro_101_testimonials_content_content_defaults() {
           'value' => '<p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>',
           'summary' => '',
           'format' => 'plain_text',
+          'safe_value' => '<p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+',
+          'safe_summary' => '',
         ),
       ),
     ),
@@ -60,6 +63,9 @@ function pro_101_testimonials_content_content_defaults() {
           'value' => '<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehender.</p>',
           'summary' => '',
           'format' => 'plain_text',
+          'safe_value' => '<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehender.</p>
+',
+          'safe_summary' => '',
         ),
       ),
     ),
@@ -101,6 +107,9 @@ function pro_101_testimonials_content_content_defaults() {
           'value' => '<p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>',
           'summary' => '',
           'format' => 'plain_text',
+          'safe_value' => '<p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+',
+          'safe_summary' => '',
         ),
       ),
     ),
