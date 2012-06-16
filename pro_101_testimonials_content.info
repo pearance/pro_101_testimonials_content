@@ -5,6 +5,7 @@ package = Pro 101 Defaults (L)
 php = 5.2.4
 version = 7.x-1.0
 project = pro_101_testimonials_content
+dependencies[] = defaultcontent
 features[content][] = testimonial1
 features[content][] = testimonial2
 features[content][] = testimonial3
