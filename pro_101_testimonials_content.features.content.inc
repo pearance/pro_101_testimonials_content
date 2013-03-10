@@ -121,5 +121,39 @@ function pro_101_testimonials_content_content_defaults() {
     ),
   );
 
+  $content['testimonial_masthead'] = (object) array(
+    'exported_path' => 'block/testimonial-masthead',
+    'title' => 'Testimonial Masthead',
+    'status' => '1',
+    'promote' => '0',
+    'sticky' => '0',
+    'type' => 'block',
+    'language' => 'und',
+    'created' => '1360381988',
+    'comment' => '0',
+    'translate' => '0',
+    'machine_name' => 'testimonial_masthead',
+    'body' => array(
+      'und' => array(
+        0 => array(
+          'value' => '<div id="pre-description">
+	&nbsp;
+</div>
+
+<h2 class="node-title">
+	What our clients and associates are saying about us.
+</h2>
+
+<div id="post-description">
+	&nbsp;
+</div>
+',
+          'summary' => '',
+          'format' => 'plain_text',
+        ),
+      ),
+    ),
+  );
+
 return $content;
 }
